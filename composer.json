@@ -1,0 +1,20 @@
+{
+    "name": "hamad/framework",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Framework\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamad Adel"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
